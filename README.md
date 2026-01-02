@@ -1,4 +1,4 @@
-# Document Intelligence and Knowledge Search Hub (DocSearchHub)
+# Document Intelligence Hub
 
 DocuMind is a full-stack MERN application that enables users to upload documents (PDF/Text), automatically extract their content, and interact with an AI-powered Q&A interface using Google Gemini. Users can ask questions about their uploaded documents and receive meaningful answers supported by relevant document references. This project was developed as a task for reaidy.io during my campus placement drive.
 
